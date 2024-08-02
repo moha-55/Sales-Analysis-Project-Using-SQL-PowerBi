@@ -180,3 +180,9 @@ SELECT
 
   order by 
   OrderDateKey ASC
+
+## Data Model
+Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
+
+This data model also shows how FACT_Budget hsa been connected to FACT_InternetSales and other necessary DIM tables.
+![image](https://github.com/user-attachments/assets/3386d4a3-560d-4e74-bada-0844a0f1c8d9)
